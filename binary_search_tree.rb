@@ -1,5 +1,3 @@
-require "pry"
-
 class BST
   attr_accessor :data, :left, :right
 
